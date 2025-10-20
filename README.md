@@ -1,6 +1,9 @@
+
 # Enhanced AR(1) Trend Analysis
 
 A robust Python implementation for detecting trends in time series raster data using Enhanced AR(1) methodology with improved autocorrelation treatment.
+
+**This code was developed and applied in the research paper:** *Spatio-temporal evaluation of MSWEP, CHIRPS and ERA5-Land reveals regional-specific responses across complex topography in Bolivia.* Álvaro Salazar, Daniel Larrea-Alcázar, Angéline Bertin, Nicolas Gouin, Alejandro Pareja, Luis Morales, Oswaldo Maillard, Diego Ocampo-Melgar and Francisco A. Squeo. Atmosphere (submitted).
 
 ## Features
 
