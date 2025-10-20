@@ -126,7 +126,7 @@ The tool automatically maps common dimension names:
 - **Longitude**: `longitude`, `x`, `east` → `lon`
 
 ### Common Data Sources
-- **ERA5**: Use `--scaling 0.1` (data comes as mm*10)
+- **ERA5**: Use `--scaling 0.1` (if data comes as mm*10 or other factor)
 - **CHIRPS**: Usually no scaling needed
 - **MSWEP**: Usually no scaling needed
 - **Custom datasets**: Specify scaling as needed
